@@ -87,3 +87,4 @@ To learn more about React Native, take a look at the following resources:
 <!-- commit 8 -->
 <!-- commit 9 -->
 <!-- commit 10 -->
+<!-- commit 11 -->
